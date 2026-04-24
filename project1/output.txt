@@ -1,0 +1,260 @@
+PS D:\Lavanya\project1> python main.py
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1
+Enter task: going to tirumala
+
+[STEP 1] Task Entered: going to tirumala
+
+[STEP 2] Priority Probabilities:
+High: 0.3333
+Medium: 0.3333
+Low: 0.3333
+
+[STEP 3] Final Priority: Medium
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1      
+Enter task: buy milk
+
+[STEP 1] Task Entered: buy milk
+
+[STEP 2] Priority Probabilities:
+High: 0.0000
+Medium: 1.0000
+Low: 0.0000
+
+[STEP 3] Final Priority: Medium
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1     
+Enter task: bug fixing
+
+[STEP 1] Task Entered: bug fixing
+
+[STEP 2] Priority Probabilities:
+High: 1.0000
+Medium: 0.0000
+Low: 0.0000
+
+[STEP 3] Final Priority: High
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: report submission
+[X] Invalid choice
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1
+Enter task: report submission
+
+[STEP 1] Task Entered: report submission
+
+[STEP 2] Priority Probabilities:
+High: 1.0000
+Medium: 0.0000
+Low: 0.0000
+
+[STEP 3] Final Priority: High
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: reading news paper
+[X] Invalid choice
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1
+Enter task: reading news paper
+
+[STEP 1] Task Entered: reading news paper
+
+[STEP 2] Priority Probabilities:
+High: 0.3333
+Medium: 0.3333
+Low: 0.3333
+
+[STEP 3] Final Priority: Medium
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1 
+Enter task: to go atp for see movie
+
+[STEP 1] Task Entered: to go atp for see movie
+
+[STEP 2] Priority Probabilities:
+High: 0.0000
+Medium: 0.0000
+Low: 1.0000
+
+[STEP 3] Final Priority: Low
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: playing khokho
+[X] Invalid choice
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1
+Enter task: playing khokho
+
+[STEP 1] Task Entered: playing khokho
+
+[STEP 2] Priority Probabilities:
+High: 0.3333
+Medium: 0.3333
+Low: 0.3333
+
+[STEP 3] Final Priority: Medium
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 1              
+Enter task: reels scrolling
+
+[STEP 1] Task Entered: reels scrolling
+
+[STEP 2] Priority Probabilities:
+High: 0.3333
+Medium: 0.3333
+Low: 0.3333
+
+[STEP 3] Final Priority: Medium
+[OK] Task Added Successfully!
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 3 
+
+--- TASK LIST ---
+0: going to tirumala  [Medium]
+1: buy milk  [Medium]
+2: bug fixing  [High]
+3: report submission  [High]
+4: reading news paper  [Medium]
+5: to go atp for see movie  [Low]
+6: playing khokho  [Medium]
+7: reels scrolling  [Medium]
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 2
+
+--- TASK LIST ---
+0: going to tirumala  [Medium]
+1: buy milk  [Medium]
+2: bug fixing  [High]
+3: report submission  [High]
+4: reading news paper  [Medium]
+5: to go atp for see movie  [Low]
+6: playing khokho  [Medium]
+7: reels scrolling  [Medium]
+Enter index to remove: 1
+[X] Enter valid number
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 3
+
+--- TASK LIST ---
+0: going to tirumala  [Medium]
+1: bug fixing  [High]
+2: report submission  [High]
+3: reading news paper  [Medium]
+4: to go atp for see movie  [Low]
+5: playing khokho  [Medium]
+6: reels scrolling  [Medium]
+
+========================
+ TASK MANAGEMENT SYSTEM 
+========================
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter choice: 4
+Exiting...
+PS D:\Lavanya\project1> 
